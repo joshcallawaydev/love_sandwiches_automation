@@ -116,6 +116,8 @@ def calculate_stock_data(data):
 
     return new_stock_data
 
+# stock_values = get_stock_values(stock_data)
+
 
 def main():
     """
